@@ -45,7 +45,6 @@ I believe **the next leap in human evolution** will come through
 | **AI & Agents** | OpenAI · LangChain · MCP · Agentic Design Patterns |
 | **Web3 Infrastructure** | Ethers.js · Chainlink · IPFS · ENS |
 | **Development** | Linux · Javascript · VS Code · Python . ether.js |
-| **Philosophy Stack** | Vedic Science · Quantum Theory · Conscious Design |
 
 ---
 
