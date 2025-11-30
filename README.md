@@ -27,10 +27,10 @@ CableGraph integrates **Blockchain's unbreakable trust** with **AI's adaptive in
 
 ###  Think of it this way:
 
-- ** Blockchain is the perfect, trustworthy employee**  
+- " Blockchain is the perfect, trustworthy employee "  
   It follows rules exactly as written, never makes mistakes, and keeps a permanent, unchangeable record of everything it does. It provides the **trust and security**.
 
-- ** AI is the brilliant, adaptive manager**  
+- " AI is the brilliant, adaptive manager"  
   It analyzes data, makes smart decisions, and handles complex, changing situations. It provides the **efficiency and intelligence**.
 
 **Alone, each has flaws. Together, they are transformative.**
