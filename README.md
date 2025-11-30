@@ -5,8 +5,7 @@
 </p>
 
 ---
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=900&lines=Blockchain+Signer+%7C+Solidity+%7C+Foundry+%7C+zkSync;AI+Agent+Engineer+%7C+;DeFi-Based+Intelligent+Technologies;Integrating+Blockchain+and+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=CableGraph+%7C+Blockchain+%26+AI+Infrastructure;Smart+Contract+Architecture+%7C+zkSync+Experts;DeFi+Protocols+%7C+Multi-Chain+Solutions;Agentic+Frameworks+%7C+Autonomous+Systems;Enterprise+Grade+%7C+Security+First+Approach)](https://git.io/typing-svg)
 
 <p align="center">
   <!-- Agentic Frameworks -->
